@@ -1,0 +1,15 @@
+C:\Users\Chetanna\Code\SelfCheckoutStation\bin\Debug\net6.0\SelfCheckoutStation.exe
+C:\Users\Chetanna\Code\SelfCheckoutStation\bin\Debug\net6.0\SelfCheckoutStation.deps.json
+C:\Users\Chetanna\Code\SelfCheckoutStation\bin\Debug\net6.0\SelfCheckoutStation.runtimeconfig.json
+C:\Users\Chetanna\Code\SelfCheckoutStation\bin\Debug\net6.0\SelfCheckoutStation.dll
+C:\Users\Chetanna\Code\SelfCheckoutStation\bin\Debug\net6.0\SelfCheckoutStation.pdb
+C:\Users\Chetanna\Code\SelfCheckoutStation\obj\Debug\net6.0\SelfCheckoutStation.csproj.AssemblyReference.cache
+C:\Users\Chetanna\Code\SelfCheckoutStation\obj\Debug\net6.0\SelfCheckoutStation.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Chetanna\Code\SelfCheckoutStation\obj\Debug\net6.0\SelfCheckoutStation.AssemblyInfoInputs.cache
+C:\Users\Chetanna\Code\SelfCheckoutStation\obj\Debug\net6.0\SelfCheckoutStation.AssemblyInfo.cs
+C:\Users\Chetanna\Code\SelfCheckoutStation\obj\Debug\net6.0\SelfCheckoutStation.csproj.CoreCompileInputs.cache
+C:\Users\Chetanna\Code\SelfCheckoutStation\obj\Debug\net6.0\SelfCheckoutStation.dll
+C:\Users\Chetanna\Code\SelfCheckoutStation\obj\Debug\net6.0\refint\SelfCheckoutStation.dll
+C:\Users\Chetanna\Code\SelfCheckoutStation\obj\Debug\net6.0\SelfCheckoutStation.pdb
+C:\Users\Chetanna\Code\SelfCheckoutStation\obj\Debug\net6.0\SelfCheckoutStation.genruntimeconfig.cache
+C:\Users\Chetanna\Code\SelfCheckoutStation\obj\Debug\net6.0\ref\SelfCheckoutStation.dll
